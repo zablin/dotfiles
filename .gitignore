@@ -1,0 +1,39 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+.Trash/
+
+# System files
+.CFUserTextEncoding
+
+# Shell history and sessions
+.zsh_history
+.zsh_sessions/
+
+# Applications
+Applications/
+Applications (Parallels)/
+
+# System directories
+Library/
+Movies/
+Music/
+Pictures/
+Public/
+Desktop/
+Documents/
+Downloads/
+Parallels/
+
+# Development tools cache
+.npm/
+.bun/
+.cursor/
+.vscode/
+.codeium/
+.windsurf/
+
+# Sensitive files
+.claude.json.backup
+正在搜索"这台Mac".savedSearch

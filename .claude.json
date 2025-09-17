@@ -1,0 +1,66 @@
+{
+  "numStartups": 3,
+  "installMethod": "unknown",
+  "autoUpdates": true,
+  "customApiKeyResponses": {
+    "approved": [
+      "HD9jFGzXp0TJOksmzfCF"
+    ],
+    "rejected": []
+  },
+  "tipsHistory": {
+    "new-user-warmup": 2,
+    "plan-mode-for-complex-tasks": 2,
+    "terminal-setup": 3,
+    "shift-enter": 3,
+    "memory-command": 3,
+    "theme-command": 3,
+    "status-line": 3,
+    "prompt-queue": 3
+  },
+  "cachedStatsigGates": {
+    "tengu_disable_bypass_permissions_mode": false
+  },
+  "firstStartTime": "2025-09-16T04:55:43.478Z",
+  "userID": "dd8b2a7ab7212f896a68e513c86b68beb3363023971225845e038a1bc3d5129c",
+  "projects": {
+    "/Users/zhaobaolin": {
+      "allowedTools": [],
+      "history": [
+        {
+          "display": "提交并推送所有的代码",
+          "pastedContents": {}
+        },
+        {
+          "display": "帮我为当前项目，初始化 git",
+          "pastedContents": {}
+        },
+        {
+          "display": "帮我配置全局的 git，我的名字是 zablin，邮箱是zablin18080778015@gmail.com",
+          "pastedContents": {}
+        },
+        {
+          "display": "/agents ",
+          "pastedContents": {}
+        },
+        {
+          "display": "介绍下你自己？",
+          "pastedContents": {}
+        }
+      ],
+      "mcpContextUris": [],
+      "mcpServers": {},
+      "enabledMcpjsonServers": [],
+      "disabledMcpjsonServers": [],
+      "hasTrustDialogAccepted": false,
+      "projectOnboardingSeenCount": 3,
+      "hasClaudeMdExternalIncludesApproved": false,
+      "hasClaudeMdExternalIncludesWarningShown": false
+    }
+  },
+  "hasCompletedOnboarding": true,
+  "hasOpusPlanDefault": false,
+  "isQualifiedForDataSharing": false,
+  "subscriptionNoticeCount": 0,
+  "hasAvailableSubscription": false
+}

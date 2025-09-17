@@ -1,0 +1,22 @@
+[
+  {
+    "content": "Create .gitignore file to exclude sensitive files",
+    "status": "completed",
+    "activeForm": "Creating .gitignore file"
+  },
+  {
+    "content": "Add all files to staging area",
+    "status": "in_progress",
+    "activeForm": "Adding all files to staging area"
+  },
+  {
+    "content": "Create initial commit",
+    "status": "pending",
+    "activeForm": "Creating initial commit"
+  },
+  {
+    "content": "Set up remote repository and push",
+    "status": "pending",
+    "activeForm": "Setting up remote and pushing"
+  }
+]
