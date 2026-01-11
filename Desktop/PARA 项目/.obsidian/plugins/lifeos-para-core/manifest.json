@@ -1,0 +1,9 @@
+{
+	"id": "lifeos-para-core",
+	"name": "LifeOS PARA Core",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Core PARA method implementation inspired by LifeOS - automatic folder structure, project management, and organized knowledge system",
+	"author": "zablin",
+	"isDesktopOnly": false
+}
